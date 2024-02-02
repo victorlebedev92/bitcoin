@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0.0
+Name=Bitcoin Wallet
+Comment=Bitcoin Wallet : Bitcoin Wallet
+Exec=bitcoin_wallet
+Icon=${SNAP}/meta/gui/bitcoin_wallet.png 
+Terminal=false
+Type=Application
